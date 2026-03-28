@@ -1,0 +1,14 @@
+body {
+    font-family: Arial; /*css조건 5번 만족*/
+    text-align: center; /*css조건 3번 만족*/
+    font-family: 'GangwonEducationSaeum'; /*css조건 5번 만족*/
+}
+form {
+    display: flex; /*css조건 3번 만족*/
+}
+@font-face {
+    font-family: 'GangwonEducationSaeum';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduSaeeum_OTFMediumA.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
